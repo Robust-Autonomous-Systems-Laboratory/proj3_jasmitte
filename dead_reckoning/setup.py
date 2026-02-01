@@ -15,7 +15,7 @@ setup(
     zip_safe=True,
     maintainer='Anders Smitterberg',
     maintainer_email='jasmitte@mtu.edu',
-    description='TODO: Package description',
+    description='Estimation of position and orientation through integration of sensor data',
     license='MIT',
     extras_require={
         'test': [
