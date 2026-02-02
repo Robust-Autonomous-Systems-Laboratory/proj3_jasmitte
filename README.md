@@ -19,7 +19,7 @@ This repository contains a ROS 2 node that implements two distinct methods for r
     * Download the `proj3.bag` folder from [this repository](https://github.com/Robust-Autonomous-Systems-Laboratory/ee5531_proj3/tree/main) into your workspace root (`~/proj3_ws`) and rename it to `proj3.bag`.
 3. **Clone the repository:**
     ```bash
-    git clone <repository-url> .
+    git clone https://github.com/Robust-Autonomous-Systems-Laboratory/proj3_jasmitte.
     ```
 4. **Build the workspace:**
     ```bash
